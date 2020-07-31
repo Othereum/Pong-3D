@@ -1,0 +1,26 @@
+{
+    "AxisMap": {
+        "MoveRight": [
+            {
+                "Code": "Keycode.A",
+                "Scale": -1.0
+            },
+            {
+                "Code": "Keycode.D",
+                "Scale": 1.0
+            },
+            {
+                "Code": "Keycode.Left",
+                "Scale": -1.0
+            },
+            {
+                "Code": "Keycode.Right",
+                "Scale": 1.0
+            },
+            {
+                "Code": "CtrlAxis.leftx",
+                "Scale": 1.0
+            }
+        ]
+    }
+}
