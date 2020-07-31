@@ -1,3 +1,3 @@
 cmake_minimum_required(VERSION 3.14)
-project(FireBalls)
+project(Pong3D)
 add_subdirectory(Engine)
